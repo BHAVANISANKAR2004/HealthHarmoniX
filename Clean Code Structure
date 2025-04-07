@@ -1,0 +1,15 @@
+HealthHarmoniX/
+│
+├── app/
+│   ├── main.py           
+│   ├── predictor.py      
+│   ├── chatbot.py        
+│   └── utils.py         
+│
+├── data/
+│   └── disease_data.csv  
+│
+├── requirements.txt      
+├── README.md             
+├── .gitignore            
+└── LICENSE               
